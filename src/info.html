@@ -1,0 +1,14 @@
+---
+title: Home
+layout: layouts/base.html
+pagination:
+    data: collections.answer
+    size: 69
+    alias: answers
+---
+<h1>Info Page</h1>
+<ol>
+    {% for answer in answers %}
+        <li><a>{{ answer.data.title }}</a></li>
+    {% endfor %}
+</ol>
