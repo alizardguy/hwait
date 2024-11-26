@@ -9,6 +9,8 @@ pagination:
 <h1>Info Page</h1>
 <ol>
     {% for answer in answers %}
-        <li><a>{{ answer.data.title }}</a></li>
+        <div>
+            <li><a href="{{ answer.url }}">{{ answer.data.title }}</a></li>
+        </div>
     {% endfor %}
 </ol>

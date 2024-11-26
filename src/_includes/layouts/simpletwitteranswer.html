@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% include "partials/basehead.html" %}
+    <link rel="stylesheet" href="/css/base.css">
+</head>
+<body>
+    <div>
+        <p>Q: {{ question }}</p>
+        <p>A: {{ answer }}</p>
+        <a href="{{ source }}">source</a>
+    </div>
+    {{content | safe}}
+</body>
+</html>
