@@ -7,7 +7,7 @@ answeredby: Alex "Sierra"
 answeredbyrole: Senior UX Designer
 source: https://x.com/JLtZD/status/1685322600216715267
 layout: layouts/answerhytale.html
-tags: answer twitter
+tags: answer
 date: 2024-01-30
 keywords: accessibility askhytale
 ---

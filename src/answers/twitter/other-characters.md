@@ -6,7 +6,7 @@ platform: Twitter
 answeredby: John Hendricks
 source: https://x.com/JLtZD/status/1685318293333430272
 layout: layouts/simpletwitteranswer.html
-tags: answer twitter
+tags: answer
 date: 2023-07-29
 keywords: lore
 ---
