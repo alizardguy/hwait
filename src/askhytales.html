@@ -1,0 +1,16 @@
+---
+title: Home
+layout: layouts/base.html
+pagination:
+    data: collections.askhytales
+    size: 69
+    alias: asks
+---
+<h1>Info Page</h1>
+<ol>
+    {% for ask in asks %}
+        <div>
+            <li><a href="{{ answer.url }}">{{ ask.data.title }}</a></li>
+        </div>
+    {% endfor %}
+</ol>
