@@ -6,7 +6,9 @@ platform: Twitter
 answeredby: John Hendricks
 source: https://x.com/JLtZD/status/1685322600216715267
 layout: layouts/simpletwitteranswer.html
-tags: answer
+tags: 
+    - answer
 date: 2023-07-29
-keywords: adult
+keywords: 
+    - adult
 ---
