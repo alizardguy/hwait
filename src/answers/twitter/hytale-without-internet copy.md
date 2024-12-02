@@ -8,8 +8,7 @@ source: https://x.com/JLtZD/status/1685323812743831553
 layout: layouts/simpletwitteranswer.html
 tags: 
     - answer
-date: 2023-07-29
-keywords: 
     - translation
+date: 2023-07-29
 ---
 non translated question: Olá, você poderia tirar uma dúvida minha? Vai ser possível jogar o Hytale sem Internet?

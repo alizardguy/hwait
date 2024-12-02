@@ -8,7 +8,6 @@ source: https://x.com/JLtZD/status/1685322600216715267
 layout: layouts/simpletwitteranswer.html
 tags: 
     - answer
-date: 2023-07-29
-keywords: 
     - adult
+date: 2023-07-29
 ---

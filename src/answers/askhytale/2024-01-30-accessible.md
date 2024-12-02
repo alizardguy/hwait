@@ -10,9 +10,7 @@ layout: layouts/answerhytale.html
 tags: 
     - answer 
     - askhytale
-date: 2024-01-30
-keywords: 
     - accessibility 
-    - askhytale
+date: 2024-01-30
 ---
 !["Hey Lusia! We believe in every person's Right To Play and we aspire for Hytale to be as accessible to as many as possible! Implementing features such as subtitles for dialouge and captions for non-speech sounds is high on our priority list. But we are also consciously designing with accessibility in mind, so that our systems are not inaccessible to begin with. For example, we use multiple sensory methods to deliver essential gameplay info, so that we don't rely on audio alone."](/../assets/askhytales/2024-01-30-accessible.jpg)
