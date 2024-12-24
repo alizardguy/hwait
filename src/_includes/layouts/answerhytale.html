@@ -3,12 +3,18 @@
 <head>
     {% include "partials/basehead.html" %}
     <link rel="stylesheet" href="/css/base.css">
+    <link rel="stylesheet" href="/css/askhytale.css">
 </head>
 <body>
     {% include "partials/navbar.html" %}
     {{content | safe}}
-    <div>
+    <main>
+        <h1 class="answer">"{{answer}}"</h1>
+        <div class="about">
+            <h2 class="answeredby">{{answeredby}}</h2>
+            <h2 class="answeredrole">{{answeredbyrole}}</h2>
+        </div>
         <a href="{{ source }}">source</a>
-    </div>
+    </main>
 </body>
 </html>
