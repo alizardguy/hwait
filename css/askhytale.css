@@ -1,0 +1,24 @@
+main
+{
+    max-width: 90%;
+    min-width: 20%;
+    text-align: left;
+    background-color: #101928;
+    color: #f4f7fe;
+    margin: auto;
+}
+
+.about
+{
+    text-align: center;
+}
+
+.answeredby
+{
+    color: #ffdb78;
+}
+
+.answeredrole
+{
+    color: #cbe2f2;
+}
